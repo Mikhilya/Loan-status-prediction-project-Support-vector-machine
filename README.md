@@ -1,2 +1,2 @@
 # Loan-status-prediction-project-Support-vector-machine
-Loan status prediction using Support Vector Machine
+Loan status prediction using Support Vector Machine. In this project, I did data preprocessing, data analysis and visualization. Then I standardized the data and build a model using **Support vector machine (SVM)** which can predict the loan status based on different features like education, marital status, gender, self-employment, applicant income etc.
